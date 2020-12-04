@@ -1,2 +1,2 @@
-# First_Profile
-This is the first "About Me" site 
+# About-Funk-and-Sould
+This is the first informational site 
