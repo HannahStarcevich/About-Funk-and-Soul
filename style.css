@@ -1,0 +1,30 @@
+body {
+    background: rgb(231, 203, 165);
+}
+
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 46pt;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: indigo;
+}
+
+h2 {
+    margin-top: 20px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    margin-top: 40px;
+    font-size: 16pt;
+}
+
+#sam-cooke, #aretha-franklin {
+    width: 60%;
+    margin-top: 40px;
+    padding: 10px;
+    border: solid indigo;
+    margin-left: 120px;
+}
